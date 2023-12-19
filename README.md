@@ -23,4 +23,4 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Hayyanshaikh/mern-project
+   gh repo clone Hayyanshaikh/mern-project
