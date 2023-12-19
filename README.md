@@ -1,4 +1,4 @@
-### MERN CRUD Project
+# MERN CRUD Project
 
 ## Introduction
 
